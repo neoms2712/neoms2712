@@ -1,74 +1,68 @@
-at # 👋 Hey, I'm Neo
+<div align="center">
 
-**QA Engineer | Full-Stack Developer**
+# Hey, I'm Neo 👋
 
-🔍 Passionate about quality assurance, automation, and building scalable applications.
+**QA Engineer · Test Automation · SaaS Builder**
 
----
+*Obsessed with quality from the ground up — test architecture, automation pipelines,*  
+*and shipping software that actually works. I build, break, and experiment.*
 
-## 🛠️ Tech Stack
+[![Profile Views](https://komarev.com/ghpvc/?username=neoms2712&color=58a6ff&style=flat&label=Profile+Views)](https://github.com/neoms2712)
+[![GitHub followers](https://img.shields.io/github/followers/neoms2712?label=Followers&style=flat&color=58a6ff)](https://github.com/neoms2712?tab=followers)
 
-**QA & Testing:**
-![Selenium](https://img.shields.io/badge/Selenium-Advanced-brightgreen?style=flat-square&logo=selenium)
-![Automation](https://img.shields.io/badge/Test_Automation-Expert-brightgreen?style=flat-square)
-
-**Web Development:**
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/React-Advanced-blue?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-Advanced-green?style=flat-square&logo=node.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-blue?style=flat-square&logo=typescript)
-
-**Languages & Tools:**
-![Python](https://img.shields.io/badge/Python-Advanced-blue?style=flat-square&logo=python)
-![Git](https://img.shields.io/badge/Git-Advanced-orange?style=flat-square&logo=git)
+</div>
 
 ---
 
-## ⭐ Featured Projects
+## 🔧 Worked With
 
-### 🎓 **TestSeedHQ** - Testing Excellence
-Organization focused on deterministic data examples and comprehensive testing practices.
+**QA & Testing**
 
-- **deterministic-data-examples** - Quality test data patterns and examples
-  - [Repository](https://github.com/TestSeedHQ/deterministic-data-examples)
-- **.github** - Organization configuration and community guidelines
-  - [Repository](https://github.com/TestSeedHQ/.github)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Tosca](https://img.shields.io/badge/Tosca-FF6C00?style=for-the-badge&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-FF6C00?style=for-the-badge&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
-### 🚀 **Key Public Projects**
+**Languages**
 
-- **testseed-SaaS** - SaaS Testing Platform
-  - [Repository](https://github.com/neoms2712/testseed-SaaS)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- **weltraum-app** - Web Application
-  - [Repository](https://github.com/neoms2712/weltraum-app)
+**Infrastructure & Tools**
 
-- **QA-Hub** - Quality Assurance Tools
-  - [Repository](https://github.com/neoms2712/QA-Hub-)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- **SMS_Reiceiver** - SMS Receiving Application
-  - [Repository](https://github.com/neoms2712/SMS_Reiceiver)
+**Frontend & Backend**
 
-- **ArtApp** - Creative Application
-  - [Repository](https://github.com/neoms2712/ArtApp)
-
-- **Control-Panel** - Management Dashboard
-  - [Repository](https://github.com/neoms2712/Control-Panel)
-
----
-
-## 📊 GitHub Overview
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neoms2712&show_icons=true&theme=github_dark)](https://github.com/neoms2712)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neoms2712&layout=compact&theme=github_dark)](https://github.com/neoms2712)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
-## 🤝 Let's Connect
+## 🧪 Projects & Experiments
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:neo.maassen@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/neoms2712)
+| Project | Description | Status |
+|---|---|---|
+| 🌱 **[TestSeed](https://testseed.com)** | Deterministic testing patterns & SaaS tooling | 🟢 Live |
+| 🛒 **SaaS Builds** | Exploring product ideas end-to-end | 🔄 Ongoing |
+| 🔧 **QA Tooling** | Open source testing utilities & experiments | 🔄 Ongoing |
 
 ---
 
-**Happy Coding!** 🚀
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-neoms2712-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neoms2712)
+
+*Happy Testing 🚀*
+
+</div>

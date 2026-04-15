@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hey, I'm Neo 👋
-
 **QA Engineer · Test Automation · SaaS Builder**
 
 *Obsessed with quality from the ground up — test architecture, automation pipelines,*  

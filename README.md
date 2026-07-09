@@ -47,16 +47,6 @@
 
 ---
 
-## 🧪 Projects & Experiments
-
-| Project | Description | Status |
-|---|---|---|
-| 🌱 **[TestSeed](https://testseed.com)** | Deterministic testing patterns & SaaS tooling | 🟢 Live |
-| 🛒 **SaaS Builds** | Exploring product ideas end-to-end | 🔄 Ongoing |
-| 🔧 **QA Tooling** | Open source testing utilities & experiments | 🔄 Ongoing |
-
----
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-neoms2712-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neoms2712)
